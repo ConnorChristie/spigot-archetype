@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-  
-    <groupId>org.devoxx4kids.spigot.plugins</groupId>
+	
+    <groupId>me.connor.spigot.plugins</groupId>
     <artifactId>spigot-template</artifactId>
-    <version>0.4-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>maven-archetype</packaging>
-    <name>Spigot Plugin for Devoxx4Kids Workshops</name>
+    <name>Spigot plugin template</name>
     <description>Spigot Template Plugin</description>
-    <url>https://github.com/arun-gupta/spigot-archetype</url>
+    <url>https://github.com/ConnorChristie/spigot-archetype</url>
     
     <licenses>
         <license>
@@ -23,11 +23,14 @@
             <name>Arun Gupta</name>
             <email>arun.gupta@gmail.com</email>
         </developer>
+		<developer>
+            <name>Connor Christie</name>
+        </developer>
     </developers>
     <scm>
-        <connection>scm:git:git@github.com:arun-gupta/spigot-archetype.git</connection>
-        <developerConnection>scm:git:git@github.com:arun-gupta/spigot-archetype.git</developerConnection>
-        <url>https://github.com/arun-gupta/spigot-archetype.git</url>
+        <connection>scm:git:git@github.com:ConnorChristie/spigot-archetype.git</connection>
+        <developerConnection>scm:git:git@github.com:ConnorChristie/spigot-archetype.git</developerConnection>
+        <url>https://github.com/ConnorChristie/spigot-archetype.git</url>
         <tag>HEAD</tag>
     </scm>
     
