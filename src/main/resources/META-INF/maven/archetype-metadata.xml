@@ -11,7 +11,7 @@
             <defaultValue>1.0-SNAPSHOT</defaultValue>
         </requiredProperty>
         <requiredProperty key="spigot">
-            <defaultValue>/Users/Aditya/Desktop/spigot</defaultValue>
+            <defaultValue>E:\Spigot-Test</defaultValue>
         </requiredProperty>
 		<requiredProperty key="spigotVersion">
             <defaultValue>1.9.4-R0.1-SNAPSHOT</defaultValue>
