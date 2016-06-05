@@ -1,4 +1,4 @@
 name: ${artifactId}
 version: ${version}
 author: Your Name
-main: ${package}.${pluginFile}
+main: ${package}.Main

@@ -6,7 +6,7 @@ package ${package};
 import java.util.logging.Level;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class ${pluginFile} extends JavaPlugin {
+public class Main extends JavaPlugin {
     // This code is called after the server starts and after the /reload command
     @Override
     public void onEnable() {
