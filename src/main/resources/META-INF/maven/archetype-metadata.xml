@@ -10,6 +10,9 @@
         <requiredProperty key="version">
             <defaultValue>1.0-SNAPSHOT</defaultValue>
         </requiredProperty>
+		<requiredProperty key="pluginFile">
+            <defaultValue>Main</defaultValue>
+        </requiredProperty>
         <requiredProperty key="spigot">
             <defaultValue>E:\Spigot-Test</defaultValue>
         </requiredProperty>
